@@ -1,0 +1,15 @@
+C:\users\daniy\documents\c#\coffeeshop\bin\Debug\net7.0\CoffeeShop.exe
+C:\users\daniy\documents\c#\coffeeshop\bin\Debug\net7.0\CoffeeShop.deps.json
+C:\users\daniy\documents\c#\coffeeshop\bin\Debug\net7.0\CoffeeShop.runtimeconfig.json
+C:\users\daniy\documents\c#\coffeeshop\bin\Debug\net7.0\CoffeeShop.dll
+C:\users\daniy\documents\c#\coffeeshop\bin\Debug\net7.0\CoffeeShop.pdb
+C:\users\daniy\documents\c#\coffeeshop\obj\Debug\net7.0\CoffeeShop.csproj.AssemblyReference.cache
+C:\users\daniy\documents\c#\coffeeshop\obj\Debug\net7.0\CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\daniy\documents\c#\coffeeshop\obj\Debug\net7.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\users\daniy\documents\c#\coffeeshop\obj\Debug\net7.0\CoffeeShop.AssemblyInfo.cs
+C:\users\daniy\documents\c#\coffeeshop\obj\Debug\net7.0\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\users\daniy\documents\c#\coffeeshop\obj\Debug\net7.0\CoffeeShop.dll
+C:\users\daniy\documents\c#\coffeeshop\obj\Debug\net7.0\refint\CoffeeShop.dll
+C:\users\daniy\documents\c#\coffeeshop\obj\Debug\net7.0\CoffeeShop.pdb
+C:\users\daniy\documents\c#\coffeeshop\obj\Debug\net7.0\CoffeeShop.genruntimeconfig.cache
+C:\users\daniy\documents\c#\coffeeshop\obj\Debug\net7.0\ref\CoffeeShop.dll
